@@ -1,6 +1,6 @@
 #pragma once
 
-#include "types.h"
+#include "smootypes.h"
 
 #include "lib/alloc.hpp"
 #include "lib/nx/nx.h"
